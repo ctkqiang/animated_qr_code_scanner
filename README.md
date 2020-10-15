@@ -46,8 +46,8 @@ Add this to your package's pubspec.yaml file:
 dependencies:
   animated_qr_code_scanner:
     git:
-      url: https://github.com/kiatuki/animated_qr_code_scanner.git
-      ref: v0.1.7
+      url: https://github.com/johnmelodyme/animated_qr_code_scanner.git
+      ref: v0.1.1 
 ```
 
 ### 2. Install it
