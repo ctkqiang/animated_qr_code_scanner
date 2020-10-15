@@ -199,3 +199,18 @@ Compute the QR corners in native-layer instead of in Flutter-layer
 Implementation for iOS
 
 Animation for front camera is incorrect
+
+
+
+<b>$Support</b><br/>
+Email: [johnmelodyme@yandex.com](mailto:johnmelodyme@yandex.com )
+
+<b>Donate</b>
+
+### Wechat: 
+![](https://raw.githubusercontent.com/johnmelodyme/ShortestPathAlgorithm/master/assets/wechat.png)
+
+<br />
+
+### Bitcoin:
+![](https://github.com/johnmelodyme/ShortestPathAlgorithm/raw/master/assets/btc.jpg)
